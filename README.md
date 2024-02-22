@@ -6,4 +6,4 @@ Usando como base o exemplo fornecido em sala de aula, resolvi criar a pagina usa
 - Sentinela
 - Iniciador
 - Controlador
-Link da pagina: https://devdanias.github.io/projetosFaculdade_3Ano/BarraDeNavegacaoPersonalizada/index.html
+- Link da pagina: https://devdanias.github.io/projetosFaculdade_3Ano/BarraDeNavegacaoPersonalizada/index.html
