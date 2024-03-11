@@ -6,3 +6,4 @@ Usando como base o exemplo fornecido em sala de aula, resolvi criar a pagina usa
 
 ### Trilha de PHP
 - OT1 de PHP com 8 exercicios
+- OT2 de PHP com 5 exercicios
